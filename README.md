@@ -40,7 +40,7 @@
                 </div>
 
                 <div class="home__img">   
-                    <img src="images/ppp.png" alt="">
+                    <img src="KID.png" alt="">
                 </div>
             </section>
 
